@@ -19,23 +19,34 @@ Source: Kaggle (E-commerce customer dataset)
 Schema:
 
 Customers – Customer demographics
+
 Orders – Purchase history
+
 Payments – Transaction details
+
 Size: ~50,000 records with behavioral and transactional attributes
 
 🛠️ Tech Stack & Tools
 
 Programming: Python (Pandas, NumPy)
+
 Visualization: Power BI / Matplotlib / Seaborn
+
 Environment: Jupyter Notebook
+
 Database: MySQL
+
 
 📂 Key Tasks & Analysis
 
 Churn Detection: Identified inactive customers based on behavioral patterns
+
 Customer Segmentation: Grouped users using purchase frequency and engagement
+
 Churn Factors: Analyzed reasons like low activity and fewer transactions
+
 Trend Analysis: Studied churn rate over time
+
 Business Insights: Suggested retention strategies
 
 🚀 How to Run
