@@ -71,8 +71,11 @@ Behavioral analysis plays a key role in decision-making
 🔮 Future Work
 
 Build machine learning models (Logistic Regression, Random Forest)
+
 Create a real-time dashboard
+
 Deploy as a web application
+
 Add customer feedback analysis
 
 📜 Conclusion
